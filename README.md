@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 <br />
 First add firebase config in a file in src folder naming "firebaseConfig.js" <br />
 
-It is a gitignored file so you have to add your own firebase confif file. <br />
+It is a gitignored file so you have to add your own firebase config file. <br />
 
 ## Available Scripts
 
