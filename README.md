@@ -1,9 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <br />
-First add firebase config in a file in src folder nameing "firebaseConfig.js" <br />
+First add firebase config in a file in src folder naming "firebaseConfig.js" <br />
 
-It is a gitignored file so you have to add your own firebase condif file. <br />
+It is a gitignored file so you have to add your own firebase confif file. <br />
 
 ## Available Scripts
 
